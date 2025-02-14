@@ -1,8 +1,7 @@
-Cần cài đặt các thư viện sau:
 streamlit
 requests
-BeautifulSoup
-time
-random
+beautifulsoup4
 pandas
-io
+openpyxl
+xlsxwriter
+serpapi
