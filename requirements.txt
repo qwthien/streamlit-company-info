@@ -1,0 +1,8 @@
+Cần cài đặt các thư viện sau:
+streamlit
+requests
+BeautifulSoup
+time
+random
+pandas
+io
