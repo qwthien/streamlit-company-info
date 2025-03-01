@@ -7,7 +7,7 @@ import pandas as pd
 import io
 
 # API Key của SerpAPI (Thay bằng API của bạn nếu cần)
-API_KEY = "12206fbbbfaaf59f34ac12c94fcb385f795526f469c22f740c9ba29fda68c7a6"
+API_KEY = "b8963334c880b8ed0bf2b4219492435b4da63d82c4f13d68fbd7bae4142d4b33"
 
 # Headers giả lập trình duyệt
 HEADERS = {
